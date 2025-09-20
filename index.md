@@ -15,8 +15,13 @@ myVar = "Hello, world!";
 ```
 
 ### H3
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+
 #### H4
 ##### H5
 ###### H6
+
 
 
